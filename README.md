@@ -8,7 +8,7 @@
 yarn && yarn start
 ```
 
-## Run Tests
+## run tests
 
 ```
 yarn test
