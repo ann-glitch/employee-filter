@@ -32,9 +32,9 @@ To run the application locally, follow these steps:
 
 You can also run the unit tests for the application using the following command:
 
-```bash
+```
 yarn test
-
+```
 
 ## Technologies Used
 
@@ -46,4 +46,3 @@ yarn test
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
-```
