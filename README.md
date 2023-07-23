@@ -17,7 +17,7 @@ You can check out the live demo of the Employee Filter Application [here](https:
 
 To run the application locally, follow these steps:
 
-1. Ensure you have [Node.js](https://nodejs.org/) and [yarn](https://yarnpkg.com/) installed on your machine.
+1. Ensure you have [Node.js](https://nodejs.org/), [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/) installed on your machine.
 2. Clone this repository to your local machine using `git clone`.
 3. Navigate to the project directory: `cd employee-filter`.
 4. Install the required dependencies: `yarn`.
