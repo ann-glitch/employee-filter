@@ -28,6 +28,14 @@ To run the application locally, follow these steps:
 2. Use the input fields to set the number of records and the starting ID.
 3. The application will fetch data from the dummy API and display the filtered results in real-time.
 
+### Running Tests
+
+You can also run the unit tests for the application using the following command:
+
+```bash
+yarn test
+
+
 ## Technologies Used
 
 - React: JavaScript library for building user interfaces.
@@ -38,3 +46,4 @@ To run the application locally, follow these steps:
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
+```
